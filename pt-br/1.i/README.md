@@ -23,27 +23,17 @@ representação e organização da informação, uso de ferramentas computaciona
 
 Corpo Docente
 
-Aline Heloisa Silva Villela
-André Luiz Martins de Oliveira
-André Luiz Paiva Pompeu
-Artur Luís Ribas Barbosa
-Daniel P. Faria
-Dionísio Ailton Pereira
-Eduardo A. Rodrigues
+Crishna Irion
+Daniel Mazzer
+Daniela Edvana
 Edy Segura
-Estevan Marcelo Lopes
-Geovany Rosa Pires
-Greciely Cristina da Costa
-Hellen Patricia Morais Fonseca
-Jane Aparecida De Oliv Silva
-Joelma Pereira de Faria
-José Luiz da Silva
-Júlio César Pereira
-Kleber da Silva Garcia
-Márcio Emílio Cruz Vono de Azevedo
-Paula Chiaretti
-Roberto Ribeiro Rocha
-Valéria Santos Paduan Silva
+Elton Barbosa
+Felipe Andery
+Márcio Emílio
+Paulo Siécola
+Phyllipe Lima
+Roberto Rocha
+Rodrigo Pimenta
 
 Informações
 
